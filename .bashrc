@@ -139,6 +139,6 @@ export PATH="~/miniconda3/bin:$PATH"
 
 # Alias
 alias e='explorer.exe .'
-alias tv=tabview
+alias cl='csvlook'
 
 
