@@ -139,6 +139,9 @@ bind '"\C-o":"rg\C-m"'
 
 # Alias
 alias e='explorer.exe .'
+alias la='ls -a'
+alias ll='ls -l'
+alias cv='csvlook'
 alias ..="cd .."
 alias gs="git status"
 alias gp="git pull"
