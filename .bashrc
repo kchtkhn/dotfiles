@@ -164,3 +164,5 @@ alias gc="git commit -m $1"
 
 # Miniconda path
 export PATH="/home/keiichi/miniconda3/bin:$PATH"
+# VcXsrv
+export DISPLAY=localhost:0.0
